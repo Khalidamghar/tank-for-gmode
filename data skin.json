@@ -5,7 +5,7 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -22,10 +22,10 @@
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2205696-1",
+      "native_yandex":"R-M-2205696-2",
+      "interstitial_yandex":"R-M-2205696-3",
+      "rewarde_yandex":"R-M-2205696-4",
         
         
         "banner_huawei":"testw6vs28auh3",
